@@ -1,0 +1,7 @@
+name: LunarClient-Impl
+version: 1
+description: A simple server implementation for the Bukkit-API
+author: Moonsworth LLC Development Team
+main: com.lunarclient.bukkitimpl.LunarClient
+website: https://www.lunarclient.com/
+depend: [LunarClient-API]
