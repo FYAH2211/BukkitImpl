@@ -18,7 +18,7 @@ the best bet.
 
 ## How to Install
 
-* Download the built jar from [here](TODO).
+* Download the built jar from [here](https://github.com/LunarClient/BukkitImpl/releases/).
 * Fully stop the bukkit server
 * Add the jar to the `plugins` folder.
 * Start the server and enjoy!

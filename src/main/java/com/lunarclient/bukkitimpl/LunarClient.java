@@ -64,7 +64,7 @@ public class LunarClient extends JavaPlugin {
     /**
      * We are going to load the server rules from the config, and
      * then immediately set them in the API and let that handle the
-     * cacheing for us. This will allow us to simply just call a send
+     * caching for us. This will allow us to simply just call a send
      * once the player is registered.
      */
     private void loadServerRules() {
